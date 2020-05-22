@@ -75,7 +75,7 @@ export const parserSettingsConfiguration = {
         {},
       ),
     },
-    ['pipelineProposal', ['minimal', 'smart', 'fsharp']],
+    ['pipelineProposal', ['minimal', 'smart', 'fsharp', 'hack']],
   ],
 };
 
